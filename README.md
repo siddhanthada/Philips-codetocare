@@ -1,5 +1,5 @@
-# Hack-Your-Reality
-This is the project done for hack your reality
+# Code to Care
+This is the project done for Code to Care
 
 Used this for the sturring part https://github.com/theRoughCode/stutterio
 
